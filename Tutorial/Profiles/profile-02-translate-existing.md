@@ -139,10 +139,10 @@
 
 | Tiếng Anh | Phím tắt | Tiếng Việt |
 |-----------|----------|------------|
-| Toggle Bookmarks | Ctrl+Oem7 (') | Bật/Tắt đánh dấu |
-| Go To Bookmark | Ctrl+Alt+Oem7 (') | Chuyển tới đánh dấu |
-| Go To Next Bookmark | Alt+Shift+Oem7 (') | Tới đánh dấu sau |
-| Go To Previous Bookmark | Ctrl+Shift+Oem7 (') | Tới đánh dấu trước |
+| Toggle Bookmarks | Ctrl+Oem7 (") | Bật/Tắt đánh dấu |
+| Go To Bookmark | Ctrl+Alt+Oem7 (") | Chuyển tới đánh dấu |
+| Go To Next Bookmark | Alt+Shift+Oem7 (") | Tới đánh dấu sau |
+| Go To Previous Bookmark | Ctrl+Shift+Oem7 (") | Tới đánh dấu trước |
 
 ### 🔹 Timing Adjust (Hạn chế - chỉ khi cần sửa)
 

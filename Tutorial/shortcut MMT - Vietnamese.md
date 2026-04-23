@@ -446,7 +446,7 @@
 - **Ctrl** = Control (phím Control)
 - **Alt** = Alt
 - **Shift** = Shift
-- **Oem7** = Phím ' (nháy đơn)
+- **Oem7** = Phím " (nháy kép)
 - **OemMinus** = Phím - (trừ)
 - **Oemplus** = Phím = (cộng)
 - **Oemtilde** = Phím ` (backtick)

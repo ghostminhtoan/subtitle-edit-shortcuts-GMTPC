@@ -24,7 +24,7 @@
 | `Alt+Left` | Back 500ms | Lùi 500ms |
 | `Alt+Right` | Forward 500ms | Tiến 500ms |
 | `Ctrl+M` | Merge & Unbreak | Gộp với dòng trước |
-| `Ctrl+Oem7 (')` | Toggle Bookmark | Đánh dấu vị trí cần sửa |
+| `Ctrl+Oem7 (")` | Toggle Bookmark | Đánh dấu vị trí cần sửa |
 
 ---
 
@@ -128,10 +128,10 @@
 
 | Tiếng Anh | Phím tắt | Tiếng Việt |
 |-----------|----------|------------|
-| Toggle Bookmarks | `Ctrl+Oem7 (')` | Bật/Tắt đánh dấu |
-| Go To Bookmark | `Ctrl+Alt+Oem7 (')` | Chuyển tới đánh dấu |
-| Go To Next Bookmark | `Alt+Shift+Oem7 (')` | Tới đánh dấu sau |
-| Go To Previous Bookmark | `Ctrl+Shift+Oem7 (')` | Tới đánh dấu trước |
+| Toggle Bookmarks | `Ctrl+Oem7 (")` | Bật/Tắt đánh dấu |
+| Go To Bookmark | `Ctrl+Alt+Oem7 (")` | Chuyển tới đánh dấu |
+| Go To Next Bookmark | `Alt+Shift+Oem7 (")` | Tới đánh dấu sau |
+| Go To Previous Bookmark | `Ctrl+Shift+Oem7 (")` | Tới đánh dấu trước |
 
 ### 🔹 Focus
 
@@ -169,7 +169,7 @@
 
 ## 💡 TIPS SỬ DỤNG
 
-1. **Flow kiểm tra chuẩn:** `Ctrl+Down` (nghe từng sub) → Nếu có lỗi → `Ctrl+Oem7 (')` đánh dấu → Tiếp tục
+1. **Flow kiểm tra chuẩn:** `Ctrl+Down` (nghe từng sub) → Nếu có lỗi → `Ctrl+Oem7 (")` đánh dấu → Tiếp tục
 2. **Kiểm tra lỗi tự động:** `Ctrl+Alt+E` để xem danh sách lỗi → `Alt+Shift+V` nhảy tới từng lỗi
 3. **Sửa nhanh:** `Ctrl+Shift+F` để fix common errors trước khi kiểm tra thủ công
 4. **Spell check:** `Alt+F7` kiểm tra chính tả, `Ctrl+Shift+D` tìm từ lặp
